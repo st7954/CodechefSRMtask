@@ -16,7 +16,7 @@ I have used Sequential from tensorflow and dense from tensorflow . A Sequential 
 ### RMSE Values-:
 1-I have minimized the value of root mean squared to as low as possible on the given dataset.<br />
 2-The rmse value have been scaled using minmaxscalar with a feature range from 0 to a 100.<br />
-3-History has been stored and rmse values along the way have been printed no values.<br />
+3-History has been stored and rmse values along the way have been printed.<br />
 
 ### PREDICTIONS-:
 Predictions were stored in a csv file in the same format as given in the sample.csv file in the answers.csv file.<br />
